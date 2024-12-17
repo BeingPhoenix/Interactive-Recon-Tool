@@ -25,11 +25,6 @@ The **Interactive Recon Tool (IRT)** is a Python-based reconnaissance tool desig
     cd Interactive-Recon-Tool
     ```
 
-3. If you encounter any issues related to Python or dependencies, run the following command to install necessary Python components:
-
-    ```bash
-    sudo apt install python*
-    ```
 
 ## Usage
 
@@ -44,6 +39,12 @@ The **Interactive Recon Tool (IRT)** is a Python-based reconnaissance tool desig
    - **DNS Lookups**: Perform DNS lookups for domain/IP details.
    - **Advanced**: Access additional features (still in development).
    - **Exit**: Exit the tool.
+
+3. If you encounter any issues related to Python or dependencies, run the following command to install necessary Python components:
+
+    ```bash
+    sudo apt install python*
+    ```
 
 ## License
 
